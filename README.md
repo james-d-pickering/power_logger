@@ -10,7 +10,7 @@ As written will communicate with any of the [Coherent Ti:Sa Chameleon oscillator
 
 Records and plots graphs of output power, room temperature, humidity, and a variety of internal laser temperatures and diode currents as a function of time (default is every 5 minutes). A log file is saved of all these data (`power_log.txt`). 
 
-
+![The Estates Team Hate Me](lab_logger_screenshot.png)
 
 Designed to be easy and quick to hack apart and edit if needed - serial communication is all done with `pyserial` and plotting with `pyqtgraph`. Should work out of the box for similar systems save some edits to COM ports and the arduino pins. 
 
