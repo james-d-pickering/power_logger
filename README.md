@@ -1,5 +1,5 @@
 # power_logger
-Simple Python program with GUI to log laser power and lab environment over time. 
+Simple Python program with GUI to log laser power and lab environmental data over time. 
 
 Communicates with a laser and arduino over COM ports to log laser powers and lab environmental data (temperature, humidity). Python program and arduino sketch are in this repo. 
 
